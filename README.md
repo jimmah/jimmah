@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jim. I am a software engineer from Manchester, UK 🇬🇧
+
+I work at [Dept Agency](https://deptagency.com) as a Solutions Architect. To learn more about me, check out https://jamessimm.co.uk.
+
 <!--
 **jimmah/jimmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
