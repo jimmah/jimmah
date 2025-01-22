@@ -2,7 +2,7 @@
 
 I'm Jim. I am a software engineer from Manchester, UK 🇬🇧
 
-I'm Principal Architect at [Dept Agency](https://deptagency.com) in the UK. To learn more about me, check out https://jamessimm.co.uk.
+I'm Principal Developer at [DEPT&reg;](https://deptagency.com) in the UK. To learn more about me, check out https://jamessimm.co.uk.
 
 <!--
 **jimmah/jimmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
